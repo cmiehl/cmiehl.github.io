@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Heterosynaptic Plasticity Determines the Set Point for Cortical Excitatory-Inhibitory Balance"
 collection: publications
 permalink: /publication/2020-Hetersynaptic-plast
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'

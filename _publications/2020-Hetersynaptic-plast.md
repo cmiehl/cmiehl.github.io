@@ -1,11 +1,15 @@
 ---
-title: "Heterosynaptic plasticity determines the set point for cortical excitatory-inhibitory balance"
+title: "Paper Title Number 2"
 collection: publications
-permalink: /publication/2020-Hetersynaptic-plast
-excerpt: 'Short describption here.'
-date: 2020
-venue: 'Neuron'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0896627320301884'
-citation: 'Field R.E., D'Amour J.A., Tremblay R., Miehl C., Rudy B., Gjorgjieva J., Froemke R.C. (2020). &quot;Heterosynaptic plasticity determines the set point for cortical excitatory-inhibitory balance&quot; <i>Neuron 1</i>. 5:842-854.e4.'
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the number 2. The number 3 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+
+Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).

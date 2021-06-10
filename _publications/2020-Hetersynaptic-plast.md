@@ -1,7 +1,7 @@
 ---
 title: "Heterosynaptic plasticity determines the set point for cortical excitatory-inhibitory balance"
 collection: publications
-permalink: /publication/2020-Hetersynaptic-plast.md
+permalink: /publication/2020-Hetersynaptic-plast
 excerpt: 'Short describption here.'
 date: 2020
 venue: 'Neuron'

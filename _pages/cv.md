@@ -16,9 +16,9 @@ Education
 * M.Sc. in Interdisciplinary Neuroscience, Goethe University Frankfurt, 2018
 
 
-#Work experience
-#======
-#* Summer 2015: Research Assistant
+# Work experience
+# ======
+# * Summer 2015: Research Assistant
 #  * Github University
 #  * Duties included: Tagging issues
 #  * Supervisor: Professor Git
@@ -44,6 +44,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Voluntary roles and public engagement
-#======
-#* Currently signed in to 43 different slack teams
+# Voluntary roles and public engagement
+# ======
+# * Currently signed in to 43 different slack teams

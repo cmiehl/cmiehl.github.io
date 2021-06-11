@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Mathematics, University of Vienna, 2015
+* B.Sc. in Physics, University of Vienna, 2016
+* M.Sc. in Interdisciplinary Neuroscience, Goethe University Frankfurt, 2018
+
 
 Work experience
 ======

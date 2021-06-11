@@ -11,31 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Mathematics, University of Vienna, 2015
+* B.Sc. in Mathematics, University of Vienna, 2016
 * B.Sc. in Physics, University of Vienna, 2016
 * M.Sc. in Interdisciplinary Neuroscience, Goethe University Frankfurt, 2018
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+#Work experience
+#======
+#* Summer 2015: Research Assistant
+#  * Github University
+#  * Duties included: Tagging issues
+#  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  
 
 Publications
 ======
@@ -55,6 +44,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Voluntary roles and public engagement
+#======
+#* Currently signed in to 43 different slack teams

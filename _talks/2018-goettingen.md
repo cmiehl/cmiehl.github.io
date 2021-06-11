@@ -4,7 +4,7 @@ collection: talks
 type: "Poster presentation"
 permalink: /talks/2018-goettingen
 venue: "Third workshop on advanced methods in theoretical neuroscience"
-date: 2018-03-01
+date: 2018-06-27
 location: "Göttingen"
 ---
 
